@@ -12,6 +12,16 @@ Durante meu curso de TI, desenvolvi um site do zero utilizando um framework de F
    - https://github.com/jpbpissineli/GRUPO-Jean-Jovi-Giovanna
    - https://github.com/jpbpissineli/comecomeweb
 
+# Automatizações de tarefas
+Como falado na Apresentação, tenho interesse na área de automatização de tarefas repetitivas. Já fiz algumas automatizações de tarefas de diferentes nichos, mas usando sempre duas linguagens: PYTHON e NODEJS.<br>
+Infelizmente não tenho salvas todas as automatizações que já fiz, porém deixo dois exemplos com as duas linguagens pra vocês poderem dar uma olhada.<br>
+
+### Exemplo de automatização em PYTHON:
+
+### Exemplo de automatização em NODEJS:
+https://youtu.be/zVPNVzrjM1M
+
+
 <!---
 jpbpissineli/jpbpissineli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
