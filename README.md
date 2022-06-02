@@ -19,7 +19,7 @@ Infelizmente não tenho salvas todas as automatizações que já fiz, porém dei
 ### Exemplo de automatização em PYTHON:
 
 ### Exemplo de automatização em NODEJS:
-![NODEJS exemplo](https://github.com/jpbpissineli/apresentation/blob/main/NodeJS.png "Imagem para exemplo de texto" =250x250)
+![NODEJS exemplo](https://github.com/jpbpissineli/apresentation/blob/main/NodeJS.png "Imagem para exemplo de texto"=250x250)
 
 
 <!---
