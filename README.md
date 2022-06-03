@@ -9,8 +9,8 @@
 Projeto desenvolvido para trabalho escolar. <br>
 Durante meu curso de TI, desenvolvi um site do zero utilizando um framework de FrontEnd, além do Backend utilizando mySQL, php e phpMyAdmin<br>
 - Os links abaixo são relacionados a esse projeto, se você se interessar pode dar uma olhada:
-   - https://github.com/jpbpissineli/GRUPO-Jean-Jovi-Giovanna
-   - https://github.com/jpbpissineli/comecomeweb
+   - https://github.com/ojotape05/GRUPO-Jean-Jovi-Giovanna
+   - https://github.com/ojotape05/comecomeweb
 
 # Automatizações de tarefas
 Como falado na Apresentação, tenho interesse na área de automatização de tarefas repetitivas. Já fiz algumas automatizações de tarefas de diferentes nichos, mas usando sempre duas linguagens: PYTHON e NODEJS.<br>
