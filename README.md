@@ -1,5 +1,5 @@
 # Apresentação
-- 👋 Olá, eu sou @jpbpissineli
+- 👋 Olá, eu sou Jean Pedro!
 - 👀 Tenho interesse em automatização de tarefas (PYTHON) e criação de sites (HTML, CSS, JS).
 - 🌱 No momento estou aprendendo NODEJS, até então fiz somente 2 projetos usando a ferramenta.
 - 💞️ Estou em busca de colaborar como FREELANCE, no objetivo de ajudar projetos e ideias, além de ter uma renda extra.
