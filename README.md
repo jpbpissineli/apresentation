@@ -11,6 +11,13 @@ Durante meu curso de TI, desenvolvi um site do zero utilizando um framework de F
 - Os links abaixo são relacionados a esse projeto, se você se interessar pode dar uma olhada:
    - https://github.com/ojotape05/GRUPO-Jean-Jovi-Giovanna
    - https://github.com/ojotape05/comecomeweb
+   
+# Sistema WEB - 1° Projeto freelancer
+Projeto desenvolvido para cliente que me contratou. <br>
+Durante meu estudo sobre web desenvolvimento, php, e frontend, decidi encarar um projeto freelancer<br>
+Esse projeto é uma gestão completa do fluxo de leilão das facas que o cliente comercializa, tendo como controlar estoque, controlar facas em leilão e afins.
+- Infelizmente não posso disponibilizar acesso ao código deste projeto, mas você pode navegar no site.
+   - https://vendedores-sadrian.com.br/
 
 # Automatizações de tarefas
 Como falado na Apresentação, tenho interesse na área de automatização de tarefas repetitivas. Já fiz algumas automatizações de tarefas de diferentes nichos, mas usando sempre duas linguagens: PYTHON e NODEJS.<br>
