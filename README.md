@@ -24,7 +24,7 @@ Como falado na Apresentação, tenho interesse na área de automatização de ta
 Infelizmente não tenho salvas todas as automatizações que já fiz, porém deixo dois exemplos com as duas linguagens pra vocês poderem dar uma olhada.<br>
 
 ### Exemplo de automatização em PYTHON:
-
+[![PYTHON exemplo](https://github.com/jpbpissineli/apresentation/blob/main/python.png)]
 ### Exemplo de automatização em NODEJS:
 [![NODEJS exemplo](https://github.com/jpbpissineli/apresentation/blob/main/NodeJS.png)](https://youtu.be/zVPNVzrjM1M)
 
