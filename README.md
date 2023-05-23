@@ -21,7 +21,7 @@ Esse projeto é uma gestão completa do fluxo de leilão das facas que o cliente
 
 # Automatizações de tarefas
 Como falado na Apresentação, tenho interesse na área de automatização de tarefas repetitivas. Já fiz algumas automatizações de tarefas de diferentes nichos, mas usando sempre duas linguagens: PYTHON e NODEJS.<br>
-Infelizmente não tenho salvas todas as automatizações que já fiz, porém deixo dois exemplos com as duas linguagens pra vocês poderem dar uma olhada.<br>
+Deixo dois exemplos com as duas linguagens pra vocês poderem dar uma olhada.<br>
 
 ### Exemplo de automatização em PYTHON:
 ![PYTHON exemplo](https://github.com/jpbpissineli/apresentation/blob/main/python.png)
