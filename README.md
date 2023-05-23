@@ -10,7 +10,6 @@ Projeto desenvolvido para trabalho escolar. <br>
 Durante meu curso de TI, desenvolvi um site do zero utilizando um framework de FrontEnd, além do Backend utilizando mySQL, php e phpMyAdmin<br>
 - Os links abaixo são relacionados a esse projeto, se você se interessar pode dar uma olhada:
    - https://github.com/ojotape05/GRUPO-Jean-Jovi-Giovanna
-   - https://github.com/ojotape05/comecomeweb
    
 # Sistema WEB - 1° Projeto freelancer
 Projeto desenvolvido para cliente que me contratou. <br>
