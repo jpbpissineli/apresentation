@@ -1,7 +1,7 @@
 # Apresentação
 - 👋 Olá, eu sou Jean Pedro!
 - 👀 Tenho interesse em automatização de tarefas (PYTHON) e criação de sites FULLSTACK.
-- 🌱 No momento estou aprendendo NODEJS, até então fiz somente 2 projetos usando a ferramenta.
+- 🌱 No momento estou aprendendo NODEJS, até então fiz 2 projetos grandes e alguns pequenos de automatização e consumo de API usando a ferramenta.
 - 💞️ Estou em busca de colaborar como FREELANCE, no objetivo de ajudar projetos e ideias, além de ter uma renda extra.
 - 📫 Para me contatar, você pode mandar um email para jpbpissineli05@gmail.com <br>
 
@@ -24,7 +24,7 @@ Como falado na Apresentação, tenho interesse na área de automatização de ta
 Infelizmente não tenho salvas todas as automatizações que já fiz, porém deixo dois exemplos com as duas linguagens pra vocês poderem dar uma olhada.<br>
 
 ### Exemplo de automatização em PYTHON:
-[![PYTHON exemplo](https://github.com/jpbpissineli/apresentation/blob/main/python.png)]
+![PYTHON exemplo](https://github.com/jpbpissineli/apresentation/blob/main/python.png)
 ### Exemplo de automatização em NODEJS:
 [![NODEJS exemplo](https://github.com/jpbpissineli/apresentation/blob/main/NodeJS.png)](https://youtu.be/zVPNVzrjM1M)
 
