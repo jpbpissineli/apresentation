@@ -5,7 +5,7 @@
 - 💞️ Estou em busca de colaborar como FREELANCE, no objetivo de ajudar projetos e ideias, além de ter uma renda extra.
 - 📫 Para me contatar, você pode mandar um email para jpbpissineli05@gmail.com <br>
 
-# Desenvolvimento de SITE sobre Receitas
+# TCC - Rede Social
 Projeto desenvolvido para trabalho escolar. <br>
 Durante meu curso de TI, desenvolvi um site do zero utilizando um framework de FrontEnd, além do Backend utilizando mySQL, php e phpMyAdmin<br>
 - Os links abaixo são relacionados a esse projeto, se você se interessar pode dar uma olhada:
