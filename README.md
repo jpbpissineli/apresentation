@@ -1,7 +1,7 @@
 # Apresentação
 - 👋 Olá, eu sou Jean Pedro!
 - 👀 Tenho interesse em automatização de tarefas (PYTHON) e criação de sites FULLSTACK.
-- 🌱 No momento estou aprendendo NODEJS, até então fiz 2 projetos grandes e alguns pequenos de automatização e consumo de API usando a ferramenta.
+- 🌱 No momento estou aprendendo NODEJS, até então fiz 3 projetos grandes, alguns pequenos de automatização e outros de consumo de API usando a ferramenta.
 - 💞️ Estou em busca de colaborar como FREELANCE, no objetivo de ajudar projetos e ideias, além de ter uma renda extra.
 - 📫 Para me contatar, você pode mandar um email para jpbpissineli05@gmail.com <br>
 
